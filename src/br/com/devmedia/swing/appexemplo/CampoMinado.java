@@ -89,8 +89,7 @@ public class CampoMinado extends JFrame {
 						.showMessageDialog(
 								null,
 								"Implementação do jogo Campo Minado utilizando \na API Swing para a revista JavaMagazine."
-										+ "\n\nDúvidas podem ser encaminhadas para:\ndanielmascena@gmail.com (Google Talk)"
-										+ "\ndanielmascena@live.com (Live Messenger)",
+										+ "\n\nDúvidas podem ser encaminhadas para:\ndanielmascena@gmail.com,
 								"Sobre", JOptionPane.INFORMATION_MESSAGE);
 			}
 		});
